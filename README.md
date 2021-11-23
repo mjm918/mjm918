@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **EasySales** Sales Automation EcoSystem. I'm the `system architect` 🤖 of **EasySales**
 - 🌱 I’m currently learning optimized big data streaming
-- 💬 Ask me about NodeJs , Objective-C, Java, Database architecture 
-- 📫 How to reach me: 📲 Discord `multithread__#2059`
+- 💬 Ask me about `NodeJs` , `Objective-C`, `Java`, `Database` architecture 
 - 😄 Pronouns: `Jul` - fi - 🚗
 - ⚡ Fun fact: I play with c++ and leave zombies in the system
+- 📫 How to reach me: 
+* [Discord](multithread__#2059)
+* [Medium](https://medium.com/@md.julfikar.mahmud)
+* [Twitter](https://twitter.com/OrphanPid)
+* [StackOverflow](https://stackoverflow.com/story/julfikar)
 
-### Social
 
-- [Medium](https://medium.com/@md.julfikar.mahmud)
-- [Twitter](https://twitter.com/OrphanPid)
-- [StackOverflow](https://stackoverflow.com/story/julfikar)
 
 ### So far... 😕
 
@@ -44,5 +44,4 @@ Here are some ideas to get you started:
 
 
 
-
-
+>> No Karen! This profile does not represent my desinging skills
