@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `Jul` - fi - 🚗
 - ⚡ Fun fact: I play with c++ and leave zombies in the system
 - 📫 How to reach me: 
-* [Discord](multithread__#2059)
+* [Discord](https://discordapp.com/users/multithread__)
 * [Medium](https://medium.com/@md.julfikar.mahmud)
 * [Twitter](https://twitter.com/OrphanPid)
 * [StackOverflow](https://stackoverflow.com/story/julfikar)
