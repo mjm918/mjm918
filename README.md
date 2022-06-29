@@ -42,7 +42,3 @@ Here are some ideas to get you started:
 <img align="left" alt="javascript" width="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" alt="mysql" width="48px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img align="left" alt="mysql" width="48px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-
-
-
->> No Karen! This profile does not represent my desinging skills
