@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 ### Skills 👨‍💻
 
+<img align="left" alt="rn" width="48px" src="https://www.rust-lang.org/logos/rust-logo-32x32.png"/>
 <img align="left" alt="rn" width="48px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" alt="cpp" width="48px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="java" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
