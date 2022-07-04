@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on **EasySales** Sales Automation EcoSystem. I'm the `system architect` 🤖 of **EasySales**
-- 🌱 I’m currently learning optimized big data streaming
+- 🌱 I’m currently building a MQ from ground up. 
 - 💬 Ask me about `NodeJs` , `Objective-C`, `Java`, `Database` architecture 
 - 😄 Pronouns: `Jul` - fi - 🚗
-- ⚡ Fun fact: I play with c++ and leave zombies in the system
+- ⚡ Fun fact: I start with C++ and end up with Rust
 - 📫 How to reach me: 
-* [Discord](https://discordapp.com/users/multithread__)
-* [Medium](https://medium.com/@md.julfikar.mahmud)
 * [Twitter](https://twitter.com/OrphanPid)
 * [StackOverflow](https://stackoverflow.com/story/julfikar)
 
 
 
-### So far... 😕
+### So far... 
 
 ![mjm918's github stats](https://github-readme-stats.vercel.app/api?username=mjm918&count_private=true&show_icons=true&theme=vue) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjm918&layout=compact&theme=vue)](https://github.com/mjm918/)
 
