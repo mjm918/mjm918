@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **EasySales** Sales Automation EcoSystem. I'm the `system architect` 🤖 of **EasySales**
+- 🔭 I’m currently working on **EasySales** Sales Automation EcoSystem.
 - 🌱 I’m currently building a MQ from ground up. 
 - 💬 Ask me about `NodeJs` , `Objective-C`, `Java`, `Database` architecture 
 - 😄 Pronouns: `Jul` - fi - 🚗
