@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I created **EasySales** Sales Automation EcoSystem. I created `Scout - A pragmatic search engine` from scratch. I'm also the creator of ESv2, ESSelfOrder, ESWarehouse, ESReport, EasySales Cloud Sync, EasySales CMS. And system architecture of EasyM.
+- 🔭 I created **EasySales** Sales Automation EcoSystem. I created `Scout - A pragmatic search engine` which is serving search on millions of data in ms. I'm also the creator of ESv2, ESSelfOrder, ESWarehouse, ESReport, EasySales Cloud Sync, EasySales CMS. And system architecture of EasyM.
 - 🌱 I’m currently building a MQ from ground up. 
 - 💬 Ask me about `NodeJs` , `React Native`, `React JS`, `Java`, `Database` architecture 
 - 😄 Pronouns: `Jul` - fi - 🚗
