@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **EasySales** Sales Automation EcoSystem.
+- 🔭 I created **EasySales** Sales Automation EcoSystem. I created `Scout - A pragmatic search engine` from scratch. I'm also the creator of ESv2, ESSelfOrder, ESWarehouse, ESReport, EasySales Cloud Sync, EasySales CMS. And system architecture of EasyM.
 - 🌱 I’m currently building a MQ from ground up. 
-- 💬 Ask me about `NodeJs` , `Objective-C`, `Java`, `Database` architecture 
+- 💬 Ask me about `NodeJs` , `React Native`, `React JS`, `Java`, `Database` architecture 
 - 😄 Pronouns: `Jul` - fi - 🚗
 - ⚡ Fun fact: I start with C++ and end up with Rust
 - 📫 How to reach me: 
