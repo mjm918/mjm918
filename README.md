@@ -1,5 +1,7 @@
 ### Howdy! 👋
 
+> **2023** resolution: create OpenSource projects to help needy people. Go to my patreon page to make a difference. 
+
 <!--
 **mjm918/mjm918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I created **EasySales** Sales Automation EcoSystem. I created `Scout - A pragmatic search engine` which is serving search on millions of data in ms. I'm also the creator of ESv2, ESSelfOrder, ESWarehouse, ESReport, EasySales Cloud Sync, EasySales CMS. And system architecture of EasyM.
-- 🌱 I’m currently building a MQ from ground up. 
+- 🌱 I’m currently building a in-memory database from ground up. 
 - 💬 Ask me about `NodeJs` , `React Native`, `React JS`, `Java`, `Database` architecture 
 - 😄 Pronouns: `Jul` - fi - 🚗
 - ⚡ Fun fact: I start with C++ and end up with Rust
 - 📫 How to reach me: 
 * [Twitter](https://twitter.com/OrphanPid)
 * [StackOverflow](https://stackoverflow.com/story/julfikar)
-
-
+* [Patreon](https://patreon.com/user?u=94134513)
 
 ### So far... 
 
