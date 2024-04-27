@@ -1,6 +1,5 @@
 ### Howdy! 👋
 
-> **2023** resolution: create OpenSource projects to help needy people. Go to my patreon page to make a difference. 
 
 <!--
 **mjm918/mjm918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
