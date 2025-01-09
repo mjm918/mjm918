@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Skills 👨‍💻
 <img align="left" alt="rn" width="48px" src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img align="left" alt="rn" width="48px" src="https://www.rust-lang.org/logos/rust-logo-32x32.png"/>
-<img align="left" alt="NodeJs" width="48px" src="https://img.icons8.com/color/48/000000/deno.png" />
+<img align="left" alt="cshap" width="48px" src="https://img.icons8.com/color/48/000000/cs.png" />
 <img align="left" alt="rn" width="48px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" alt="ts" width="48px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img align="left" alt="javascript" width="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
