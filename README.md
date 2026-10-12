@@ -17,7 +17,7 @@
 - 🔭 Founder/architect of the **EasySales** sales automation ecosystem — `ESv2`, `ESSelfOrder`, `ESWarehouse`, `ESReport`, `EasySales Cloud Sync`, `EasySales CMS` — plus **EasyM**'s system architecture.
 - 🔎 Built **Scout** for EasySales, a pragmatic search engine serving queries over millions of records in milliseconds.
 - 🌱 Deep in storage-engine territory right now — **BarqDB** (embedded object storage + vector search) and **llbt** (an embedded page store), both in C++.
-- 💬 Ask me about `Go`, `Rust`, `C++`, `Database` internals, `React Native`, `React`
+- 💬 Ask me about `Go`, `C++`, `Database` internals, `React Native`, `React`
 - ⚡ Fun fact: started with C++, ended up living in Go (and now back in C++)
 
 <br/>
